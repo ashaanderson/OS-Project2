@@ -1,3 +1,4 @@
+//collaborated with joshua clemons
 #include <semaphore.h>
 #include <stdio.h>
 #include <errno.h>
